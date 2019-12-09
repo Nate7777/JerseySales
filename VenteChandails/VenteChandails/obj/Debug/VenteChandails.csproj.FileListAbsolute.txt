@@ -1,0 +1,8 @@
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Devoirs\VenteChandails\VenteChandails\bin\Debug\VenteChandails.exe
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Devoirs\VenteChandails\VenteChandails\bin\Debug\VenteChandails.pdb
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Devoirs\VenteChandails\VenteChandails\obj\Debug\VenteChandails.csprojAssemblyReference.cache
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Devoirs\VenteChandails\VenteChandails\obj\Debug\VenteChandails.VenteChandailsForm.resources
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Devoirs\VenteChandails\VenteChandails\obj\Debug\VenteChandails.Properties.Resources.resources
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Devoirs\VenteChandails\VenteChandails\obj\Debug\VenteChandails.csproj.GenerateResource.cache
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Devoirs\VenteChandails\VenteChandails\obj\Debug\VenteChandails.exe
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Devoirs\VenteChandails\VenteChandails\obj\Debug\VenteChandails.pdb

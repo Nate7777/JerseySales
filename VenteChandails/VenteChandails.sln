@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VenteChandails", "VenteChandails\VenteChandails.csproj", "{FA2609E4-B8D7-4F3D-A1DB-299CC80D1079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chandails", "Chandails\Chandails.csproj", "{670E834D-AB1B-444F-9C5B-F13C135288A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2609E4-B8D7-4F3D-A1DB-299CC80D1079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2609E4-B8D7-4F3D-A1DB-299CC80D1079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2609E4-B8D7-4F3D-A1DB-299CC80D1079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2609E4-B8D7-4F3D-A1DB-299CC80D1079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670E834D-AB1B-444F-9C5B-F13C135288A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670E834D-AB1B-444F-9C5B-F13C135288A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670E834D-AB1B-444F-9C5B-F13C135288A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670E834D-AB1B-444F-9C5B-F13C135288A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17F7C207-6103-4349-A438-0EEF4B822C5B}
+	EndGlobalSection
+EndGlobal
